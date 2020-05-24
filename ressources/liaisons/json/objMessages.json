@@ -1,0 +1,101 @@
+{
+    "champText": {
+        "label": "Intitulé de la balise label ou d'un attribut title",
+        "info": "Informations ou légende explicative",
+        "exemple": "Exemple",
+        "erreurs": {
+            "vide": "Veuillez entrez autre chose qu'un champ vide",
+            "motif": "Explication complète du motif attendu"
+        }
+    },
+
+    "nom": {
+        "erreurs": {
+            "vide": "Veuillez remplir ce champ",
+            "motif": "Veuillez entrez un nom valide svp"
+        }
+    },
+
+    "prenom": {
+        "erreurs": {
+            "vide": "Veuillez remplir ce champ",
+            "motif": "Veuillez entrer un prenom valide svp"
+        }
+    },
+    "telephone": {
+        "erreurs": {
+            "vide": "veuillez remplir ce champ",
+            "motif": "veuillez entrer un numero de telephone valide"
+        }
+    },
+    "motDePasse": {
+        "erreurs": {
+            "vide": "veuillez remplir ce champ",
+            "motif": "seul les lettres, les accents et les chiffres sont permis. le mot de passe doit être entre 6 et 20 caractères"
+        }
+    },
+    "courriel": {
+        "erreurs": {
+            "vide": "veuillez remplir ce champ",
+            "motif": "veuillez entrer Email valide",
+            "existePas": "aucun n'utilisateur n'utilise cette adresse courriel",
+            "dejaPris": "cette adresse courriel est deja prise par un autre utilisateur"
+        }
+    },
+
+    "adresse": {
+        "erreurs": {
+            "vide": "Veuillez remplir ce champ",
+            "motif": "Veuillez entrez une adresse valide svp"
+        }
+    },
+
+    "province": {
+        "erreurs": {
+            "vide": "Veuillez choisir une province svp",
+            "motif": "Vous ne devriez pas voir ceci à moins de faire quelque chose de mal"
+        }
+    },
+
+    "ville": {
+        "erreurs": {
+            "vide": "Veuillez remplir ce champ svp",
+            "motif": "Vous ne devriez pas voir ceci à moins de faire quelque chose de mal"
+        }
+    },
+
+    "codepostal": {
+        "erreurs": {
+            "vide": "Veuillez remplir ce champ",
+            "motif": "Veuillez entrez une code postal valide svp (A1A 1A1)"
+        }
+    },
+
+    "numero": {
+        "erreurs": {
+            "vide": "Veuillez remplir ce champ",
+            "motif": "Veuillez entrez un numéro de carte valide svp"
+        }
+    },
+
+    "code": {
+        "erreurs": {
+            "vide": "Veuillez remplir ce champ",
+            "motif": "Veuillez entrez une code de sécurtité valide svp"
+        }
+    },
+
+    "expirationMois": {
+        "erreurs": {
+            "vide": "Veuillez remplir ce champ",
+            "motif": "Tu devrais pas voir ça, villain garçon"
+        }
+    },
+
+    "expirationAnnee": {
+        "erreurs": {
+            "vide": "Veuillez remplir ce champ",
+            "motif": "Tu devrais pas voir ça, villain garçon"
+        }
+    }
+}
